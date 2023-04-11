@@ -15,7 +15,7 @@ function HomePage() {
       <div className="-mt-64 ">
         <div className="w-full text-center">
           <h1 className="font-bold text-5xl text-white">
-            B-Code 404 Error pages
+            B Code - 404 Error pages
           </h1>
           <p className="text-md tracking-widest text-white mt-3 font-sans">
             Experience the power of professional website pages with B-code.
