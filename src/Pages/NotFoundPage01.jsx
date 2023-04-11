@@ -13,7 +13,7 @@ export const NotFoundPage01 = () => {
           Uh Oh! Page not found!
         </p>
         <a
-          href="#"
+          href=""
           className="flex items-center space-x-2 bg-[#142833]  hover:bg-[#19323f] text-gray-100 px-4 py-2 mt-10 rounded-full transition duration-150"
           title="Return Home"
         >

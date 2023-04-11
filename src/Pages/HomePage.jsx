@@ -7,10 +7,7 @@ import { Link } from "react-router-dom";
 function HomePage() {
   return (
     <div>
-      <div
-        className="h-[400px] bg-gray-800 bg-left-top bg-auto bg-repeat-x"
-        style={{ backgroundImage: "url(./img/continuartl_4.png)" }}
-      ></div>
+      <div className="h-[400px] bg-gray-800 bg-left-top bg-auto bg-repeat-x"></div>
 
       <div className="-mt-64 ">
         <div className="w-full text-center">
