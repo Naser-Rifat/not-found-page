@@ -8,7 +8,7 @@ function HomePage() {
   return (
     <div>
       <div
-        className="h-[400px] bg-green-800 bg-left-top bg-auto bg-repeat-x"
+        className="h-[400px] bg-gray-800 bg-left-top bg-auto bg-repeat-x"
         style={{ backgroundImage: "url(./img/continuartl_4.png)" }}
       ></div>
 
